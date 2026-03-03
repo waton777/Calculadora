@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+/.vs
+/Calculadora/.vs/Calculadora
+/Calculadora/Calculadora/x64/Debug
